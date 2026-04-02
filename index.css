@@ -182,8 +182,8 @@
     }
 
     .rel{
-        min-height: 60dvh;
-        max-height: 60dvh;
+        min-height: 55dvh;
+        max-height: 55dvh;
 
     }
 
@@ -200,11 +200,11 @@
 }
 .abs5{
     top: 50%;
-    left: -80px;
+    left: -100px;
     transform: translateY(-50%);
 }
 .abs6{
-    right: -80px;
+    right: -100px;
     top: 50%;
     transform: translateY(-50%);
 }
