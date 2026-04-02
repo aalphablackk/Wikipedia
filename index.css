@@ -175,11 +175,16 @@
 }
 }   
 @media screen and (max-width:640px) {
-    
+    .sect1 > div{
+        margin: 0px 100px;
+        width: 100%;
+
+    }
+
     .rel{
         min-height: 50dvh;
         max-height: 50dvh;
-        width: 20%;
+
     }
 
     .abs2{
